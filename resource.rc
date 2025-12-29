@@ -1,0 +1,7 @@
+#include <winres.h>
+
+#define IDI_ICON1 102
+#define ID_MANIFEST 1
+
+IDI_ICON1 ICON "usbhostmodenative.ico"
+ID_MANIFEST RT_MANIFEST "usbhostmodenative.exe.manifest"
